@@ -1,1 +1,31 @@
-this is a start
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="minimal React application which generates a GPG key" />
+  <meta name="author" content="Valera Rozuvan" />
+  <title>Online GPG key generator</title>
+  <script defer src="js/openpgp.min.js"></script>
+  <script defer src="js/tailwindcss.min.js"></script>
+  <script defer src="main.min.js"></script>
+</head>
+<body class="p-8 box-border">
+  <div id="root"></div>
+  <div class="mt-4">
+    <p>Looking at a GPG key is like looking at a fractal.</p>
+    <p>There is hidden beauty everywhere.</p>
+    <p>But you can&rsquo;t quite describe what you are looking at &#128521;</p>
+  </div>
+  <div class="mt-4">
+    <p>This is a minimal React application which provides the functionality to generate a GPG key online.</p>
+    <p>The awesome library <a class="underline text-blue-600 hover:text-blue-800 visited:text-purple-600" href="https://openpgpjs.org/">OpenPGP.js</a> is used to work with GPG keys in the browser.</p>
+    <p>No back-end calls are made - purely in-browser experience!</p>
+    <p>Find the full source code of the application at <a class="underline text-blue-600 hover:text-blue-800 visited:text-purple-600" href="https://github.com/valera-rozuvan/react-from-scratch">https://github.com/valera-rozuvan/react-from-scratch</a></p>
+  </div>
+  <div class="mt-4">
+    <p>made with ❤ by <a class="underline text-blue-600 hover:text-blue-800 visited:text-purple-600" href="https://valera.rozuvan.net">Valera Rozuvan</a></p>
+    </div>
+</body>
+</html>
