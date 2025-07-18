@@ -15,6 +15,8 @@ Using latest React.js, WebPack, and TypeScript bootstrap a working application w
     "webpack-cli": "6.0.1",
 ```
 
+This project not only introduces a hello-world type starter kit, but goes on to show how to build something useful with it. Currently, this is a small application which generates GPG keys online. See it live at [gpg-keys-online.rozuvan.net](https://gpg-keys-online.rozuvan.net/).
+
 ## Pre-requisites
 
 You need [Node.js](https://nodejs.org/) version `16.x` or higher. Look into using [Node Version Manager](https://github.com/nvm-sh/nvm) if you aren't already using it.
