@@ -66,6 +66,7 @@ I recorded several YouTube videos explaining the motivation behind this project,
 
 - [Setup React.js from scratch using TypeScript and WebPack](https://www.youtube.com/watch?v=FXvbgRYWxHc&list=PL9R9HKRuWxbh3aDCiSS-wl4LUjcm-LgKN&index=2)
 - [React with WebPack from scratch - part 2](https://www.youtube.com/watch?v=9QaqjGDx0xE&list=PL9R9HKRuWxbh3aDCiSS-wl4LUjcm-LgKN&index=1)
+- [React app using minimal NPM dependencies - part 3](https://www.youtube.com/watch?v=9Hwc4XftT8A&list=PL9R9HKRuWxbh3aDCiSS-wl4LUjcm-LgKN&index=1)
 
 ## Next steps
 
